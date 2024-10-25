@@ -1,0 +1,31 @@
+.task-info{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+*{
+    margin: 0px;
+}
+.btn-1{
+    background-color: rgb(112, 112, 214);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.btn2{
+
+}
+.task-items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    padding: 5px 20px;
+    margin-bottom: 20px;
+}
+.task-data{
+    padding: 10px 20px;
+}
+.task-about{
+    background-color: rgba(222, 218, 218, 0.788);
+}
